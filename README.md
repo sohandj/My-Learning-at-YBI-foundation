@@ -1,2 +1,3 @@
 # My-Learning-at-YBI-foundation
-My Projects
+I am Learning AI/ML with YBI foundation
+full stack in AI/ML
